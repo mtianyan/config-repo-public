@@ -2,4 +2,4 @@ info:
   profile: prod
 name: mtianyan-prod
 words: 'word prod'
-food: 'milk'
+food: '{cipher}331da08f19f6295a3e744f71c7a9af08f2fc4c843408f0ea7a3f81167dc09782'
